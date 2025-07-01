@@ -1,0 +1,7 @@
+<suite name="OrangeHRM Automation Testing">
+	<test name="testngTest">
+		<classes>
+		<class name="TestRunner" />
+		</classes>
+	</test>
+</suite>
